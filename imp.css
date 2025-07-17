@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> WEBPAGE </title> 
+    <link rel="stylesheet" href="Task1.css">
+</head>
+<body>
+    <h1> Welcome ApexPlanet Software Pvt. Ltd.</h1>
+    <p>This heading emphasizes the company’s commitment to innovation and highlights its expertise in delivering advanced<br>
+         software solutions. It portrays Apexplanet Software Pvt. Ltd. as a forward-thinking and reliable partner in the tech industry.</p>
+    <img src="C:\Users\burad\OneDrive\Pictures\Screenshots\Screenshot 2025-06-09 145314.png">
+    <br>
+    <h3> FOR MORE DETAILS : <a href="https://apexplanet.in/" target="_blank">Visit  this Site</a></h3>
+    <br><br>
+     <button onclick="showMessage()">REGISTER </button>
+    <script src="Task1.js"></script>
+</body>
+</html>
